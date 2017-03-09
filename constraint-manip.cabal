@@ -7,7 +7,7 @@ description:
 homepage:
 author:               Clinton Mead
 maintainer:           clintonmead@gmail.com
-category:             
+category:             Control
 license: MIT
 license-file: LICENSE
 copyright: Clinton Mead (2017)
