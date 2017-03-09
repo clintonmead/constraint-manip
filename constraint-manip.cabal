@@ -14,6 +14,12 @@ copyright: Clinton Mead (2017)
 build-type:           Simple
 tested-with: GHC == 8.0.2
 cabal-version:        >=1.10
+bug-reports: https://github.com/clintonmead/constraint-manip/issues
+
+source-repository head
+  type: git
+  location: https://github.com/clintonmead/constraint-manip.git
+
 
 library
   exposed-modules: Control.ConstraintManip
