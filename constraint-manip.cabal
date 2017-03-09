@@ -1,6 +1,6 @@
 name:                 constraint-manip
 version:              0.1.0.0
-synopsis:             Some conviencience type functions for manipulating constraints.
+synopsis:             Some conviencience type functions for manipulating constraints. 
 description:
   This package contains some useful classes for creating and combining constraints of one variable.
 homepage:
